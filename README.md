@@ -88,9 +88,6 @@ python msi_inference.py
 
 Note: please edit paths in each .py file.  
   
-## License  
-This code is made available under the MIT License.  
-  
 ## Citation  
 Deep learning for the prediction of microsatellite instability in colorectal cancer: a diagnostic study.  
   
