@@ -89,11 +89,8 @@ python msi_inference.py
 Note: please edit paths in each .py file.  
   
 ## Citation  
-Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study  
   
-Rikiya Yamashita, Jin Long, Teri Longacre, Lan Peng, Gerald Berry, Brock Martin, John Higgins, Daniel L Rubin, Jeanne Shen  
-  
-Lancet Oncol. 2020; 22: 132–41 ([Link to the Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30535-0/fulltext))  
+[Lancet Oncol. 2021; 22: 132–41](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30535-0)  
   
 ```
 @ARTICLE{Yamashita2021deep,
