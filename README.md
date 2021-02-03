@@ -90,7 +90,7 @@ Note: please edit paths in each .py file.
   
 ## Citation  
   
-[Lancet Oncol. 2021; 22: 132–41](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30535-0)  
+[Lancet Oncology 2021;22(1):132–41](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30535-0)  
   
 ```
 @ARTICLE{Yamashita2021deep,
