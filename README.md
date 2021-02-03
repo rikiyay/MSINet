@@ -1,4 +1,4 @@
-# MSINet: Deep learning for the prediction of microsatellite instability in colorectal cancer: a diagnostic study  
+# MSINet: Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study  
   
 ![method_outline](method_outline.png)  
 
