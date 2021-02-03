@@ -89,8 +89,22 @@ python msi_inference.py
 Note: please edit paths in each .py file.  
   
 ## Citation  
-Rikiya Yamashita, Jin Long, Teri Longacre, Lan Peng, Gerald Berry, Brock Martin, John Higgins, Daniel L Rubin, Jeanne Shen  
-  
 Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study  
   
+Rikiya Yamashita, Jin Long, Teri Longacre, Lan Peng, Gerald Berry, Brock Martin, John Higgins, Daniel L Rubin, Jeanne Shen  
+  
 Lancet Oncol. 2020; 22: 132–41 ([Link to the Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30535-0/fulltext))  
+  
+```
+@ARTICLE{Yamashita2021deep,
+  title = "Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study",
+  author = "Yamashita, Rikiya and Long, Jin and Longacre, Teri and Peng, Lan and Berry, Gerald and Martin, Brock and Higgins, John and Rubin, Daniel L and Shen, Jeanne",
+  journal  = "Lancet Oncol.",
+  volume   =  22,
+  number   =  1,
+  pages    = "132--141",
+  month    =  jan,
+  year     =  2021,
+  language = "en"
+  }
+```
