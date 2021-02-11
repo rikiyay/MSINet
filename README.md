@@ -19,7 +19,7 @@ This code was developed and tested in the following settings.
 - scikit-learn (0.21.3)  
 - scikit-image (0.15.0)  
 - opencv-python (4.1.2.30)  
-- openslice-python (1.1.1)  
+- openslide-python (1.1.1)  
 - staintools (2.1.2)  
 - h5py (2.9.0)  
 - pytables (3.5.1)  
